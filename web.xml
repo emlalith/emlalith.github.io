@@ -1,8 +1,0 @@
-<servlet>
-	<servlet-name>SaveButton</servlet-name>
-	<servlet-class>SaveButton</servlet-class>
-</servlet>
-<servlet-mapping>
-<servlet-name>SaveButton</servlet-name>
-<url-pattern>/SaveButton</url-pattern>
-</servlet-mapping>
