@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
-<web-app>
 <servlet>
-	<servlet-name>Save</servlet-name>
+	<servlet-name>SaveButton</servlet-name>
 	<servlet-class>SaveButton</servlet-class>
 </servlet>
-</web-app>
+<servlet-mapping>
+<servlet-name>SaveButton</servlet-name>
+<url-pattern>/SaveButton</url-pattern>
+</servlet-mapping>
